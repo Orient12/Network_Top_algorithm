@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TT:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TT_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TT/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TT" />
+        </element>
+        <element id="library" level="project" name="commons-beanutils-1.9.3" />
+        <element id="library" level="project" name="commons-lang-2.0" />
+        <element id="library" level="project" name="commons-collections-3.2.1" />
+        <element id="library" level="project" name="commons-logging-1.2" />
+        <element id="library" level="project" name="ezmorph-1.0.3" />
+        <element id="library" level="project" name="json-lib-2.4-jdk15" />
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-beanutils-1.9.3" />
+          <element id="library" level="project" name="commons-collections-3.2.1" />
+          <element id="library" level="project" name="commons-lang-2.0" />
+          <element id="library" level="project" name="commons-logging-1.2" />
+          <element id="library" level="project" name="ezmorph-1.0.3" />
+          <element id="library" level="project" name="json-lib-2.4-jdk15" />
+        </element>
+      </element>
+      <element id="library" level="project" name="javax.servlet-api-3.1.0" />
+      <element id="library" level="project" name="commons-logging-1.2" />
+      <element id="library" level="project" name="ezmorph-1.0.3" />
+      <element id="library" level="project" name="commons-collections-3.2.1" />
+      <element id="library" level="project" name="javax.servlet.jsp-api-2.3.1" />
+      <element id="library" level="project" name="commons-lang-2.0" />
+      <element id="library" level="project" name="commons-beanutils-1.9.3" />
+      <element id="library" level="project" name="jstl-1.2" />
+      <element id="library" level="project" name="json-lib-2.4-jdk15" />
+      <element id="library" level="project" name="servlet-api-2.5" />
+    </root>
+  </artifact>
+</component>
